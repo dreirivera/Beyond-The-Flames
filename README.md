@@ -1,4 +1,4 @@
-# Beyond the Flames: Fire Behavior Simulation with Machine Learning
+# [2025] Beyond the Flames: Fire Behavior Simulation with Machine Learning
 
 This repository contains the thesis project **"Beyond the Flames: Exploring the Role of Oxygen Concentration, Wind Speed, Humidity, and Temperature in Fire Behavior"**, developed at Cavite State University.  
 
