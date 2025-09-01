@@ -2,7 +2,7 @@
 
 This repository contains the thesis project **"Beyond the Flames: Exploring the Role of Oxygen Concentration, Wind Speed, Humidity, and Temperature in Fire Behavior"**, developed at Cavite State University.  
 
-The project integrates **machine learning (Random Forest regression)** with **Fire Dynamics Simulator (FDS)** and **Smokeview (SMV)** to predict **fire intensity** and **heat release rate (HRR)**, while identifying the most influential environmental variable.
+The project integrates **machine learning (Random Forest regression)** with **Fire Dynamics Simulator (FDS)** and **Smokeview (SMV)** by NIST to predict **fire intensity** and **heat release rate (HRR)**, while identifying the most influential environmental variable.
 
 ---
 
@@ -48,7 +48,7 @@ Predicted HRR values are integrated with **FDS/SMV** for real-time fire visualiz
 ## ▶️ Usage
 1. Launch the program:
    ```bash
-   python fire_simulation.py
+   gui.py
    ```
 2. Input values for:
    - Oxygen Concentration (%)
@@ -67,7 +67,7 @@ Predicted HRR values are integrated with **FDS/SMV** for real-time fire visualiz
 - Predicted Fire Intensity  
 - Predicted HRR  
 - Feature importance ranking of input variables  
-- Line graphs of prediction trends  
+- Line graphs of MSE and  R² Metric
 - 3D Smokeview visualization of fire behavior  
 
 ---
@@ -79,13 +79,12 @@ Predicted HRR values are integrated with **FDS/SMV** for real-time fire visualiz
 
 ---
 
-## 👩‍💻 Authors
+## 👩‍💻 Author
 - **Edrei Reigne I. Rivera** – edreireigne.rivera@cvsu.edu.ph  
-- **Jaimee Rose D. Mercado** – jaimeerose.mercado@cvsu.edu.ph  
-- **Iresh Abbegail D. Sumayang** – ireshabbegail.sumayang@cvsu.edu.ph  
 
 Institution: **Cavite State University**  
 College of Engineering and Information Technology  
+Department of Information Technology
 
 ---
 
