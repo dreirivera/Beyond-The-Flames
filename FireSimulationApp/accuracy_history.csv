@@ -1,0 +1,3 @@
+run_id,r2_intensity_train,r2_intensity_validation,r2_hrr_train,r2_hrr_validation,mse_intensity_train,mse_intensity_validation,mse_hrr_train,mse_hrr_validation
+1,0.7646,0.3962,0.7636,0.3968,16.6605,104.4596,29.8470,185.9296
+2,0.7828,0.4144,0.7817,0.4219,15.3702,101.3009,27.5630,178.1812
